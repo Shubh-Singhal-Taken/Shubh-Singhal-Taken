@@ -100,7 +100,7 @@ const shubh = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shubh-Singhal-Taken&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/Shubh-Singhal-Taken)
+[![trophy](https://github-trophies.vercel.app/?username=Shubh-Singhal-Taken&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/Shubh-Singhal-Taken)
 
 </div>
 
