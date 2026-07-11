@@ -122,7 +122,7 @@ const shubh = {
 
 </div>
 
-> 💡 *To enable the snake animation, you may need to add [this GitHub Action](https://github.com/Platane/snk) to your repo and push to the `output` branch.*
+
 
 <br/>
 
